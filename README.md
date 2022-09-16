@@ -6,7 +6,7 @@
 
 Projeto construido no evento Next Week da Rocketseat
 
-[🔗 Clique aqui para acessar](https://biogmmorais.github.io/NLW-Esports/)
+[🔗 Clique aqui para acessar](https://biogmmorais.github.io/NLW-eSports/)
 
 ## 🛠Tecnologias
 
