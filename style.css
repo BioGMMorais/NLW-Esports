@@ -120,6 +120,10 @@ li:hover {
   border: 1px solid #443e54;
 }
 
+.social-list {
+  gap: 24px;
+}
+
 
 /* Animação */
 
@@ -166,4 +170,18 @@ main section:nth-child(3) {
     opacity: 1;
     transform: translateY(0);
   }
+}
+
+/* SWIPER */
+main{
+  max-width: 360px;
+}
+
+section {
+  overflow: hidden;
+}
+
+section ul {
+  flex-wrap: nowrap;
+  gap: 0;
 }
